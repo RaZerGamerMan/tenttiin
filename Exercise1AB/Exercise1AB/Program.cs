@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace kaikki
+namespace Exercise1AB
 {
     class Program
     {
