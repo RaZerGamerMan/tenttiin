@@ -1,6 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+// b2) Lisää kyseinen rajapinta Character luokalle, ja tee sille rajapinnan funktion toteutus.
+// Funktiossa on tarkoitus kutsua parametriksi annetun painikkeen PressButton(bool) funktiota.
+// Huomioi Action(Button) -funktion toteutuksessa seuraavat asiat:
+// PressButton() -funktiota ei voi kutsua, jos painike ei ole samassa sijainnissa hahmon kanssa. Eli hahmo ei yllä siihen. Toteuta tästä tulostus konsoliin.
+// Painiketta voi painaa vaan kerran -> tulosta konsoliin, jos painiketta on jo painettu.
 
 namespace Exercise7
 {

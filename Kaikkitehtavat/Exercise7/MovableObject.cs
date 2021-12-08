@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
+// a) Vaihda MovableObject luokka abstraktiksi luokaksi, ja muuta sen metodit abstrakteiksi.
 namespace Exercise7
 {
     abstract class MovableObject

@@ -1,6 +1,9 @@
 ﻿using System;
 using static System.Console;
 using System.Collections.Generic;
+// c) Luo pääohjelmassa 1 Character olio, ja 1 Button olio.
+// Käytä olioiden SetLocation -funktiota siirtämällä oliot eri sijainteihin.
+// Testaa Character olion Action(Button) -funktiota, jossa annat luodun painike olion funktion parametrinä.
 
 namespace Exercise7
 {
