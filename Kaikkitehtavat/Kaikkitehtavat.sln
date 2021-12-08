@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseTestQ2", "ExerciseT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_Memory", "Exercise_Memory\Exercise_Memory.csproj", "{028F8AA4-A99E-4117-88F8-36F43D861147}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_AbstractClass", "Exercise_AbstractClass\Exercise_AbstractClass.csproj", "{3AC81B16-8730-41BD-948A-60CF742FF1F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{028F8AA4-A99E-4117-88F8-36F43D861147}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{028F8AA4-A99E-4117-88F8-36F43D861147}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{028F8AA4-A99E-4117-88F8-36F43D861147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC81B16-8730-41BD-948A-60CF742FF1F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC81B16-8730-41BD-948A-60CF742FF1F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC81B16-8730-41BD-948A-60CF742FF1F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC81B16-8730-41BD-948A-60CF742FF1F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
