@@ -2,6 +2,10 @@
 // c) Luo pääohjelmaan aliohjelma, johon voi syöttää parametreina useamman Character luokan. Ohjelma kutsuu annetuista olioista Character luokan PrintInformation() funktiota.
 // for(...) loop tai
 // foreach(...) suositeltava tässä käytettäväksi.
+
+
+// 5b) Päivitä edellisen tehtävän pääohjelmaa siten,
+// että käytät kaikkia hahmojen luomiseen toteutettuja konstruktoreita. Katso miten ohjelma toimii käyttämällä Visual Studion debugger työkalua.
 namespace Exercise45
 {
     class Program

@@ -6,6 +6,10 @@ using System.Text;
 // Luokalla on myös yksi funktio: public void PrintInformation() = joka kirjoittaa konsoliin luokan nimen ja lokaation, käytä täälä GetLocation() funktiota
 // Luo muutama Character olio, ja anna niille erilaisia arvoja X:lle ja Y:lle.
 
+// 5a) Toteuta edellisen tehtävän Character luokalle useampi konstruktori.
+// 1.Konstruktori, joka ei ota mitään parametrejä, 2.Konstruktori, joka ottaa string parametrin, jossa voi asettaa käyttäjälle nimen., 
+// 3.Konstruktori, joka ottaa parametreina (string, int x, int y) muuttujat. Konstuktorissa annetaan Name muuttujalle annettu string parametri,
+// ja int x,y annetaan konstruktorissa käytettävään SetLocation(x,y).
 namespace Exercise45
 {
     class Character : MovableObject
