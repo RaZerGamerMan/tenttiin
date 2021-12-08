@@ -1,6 +1,7 @@
 ﻿using System;
+using static System.Console;
 
-namespace Exercise6_1
+namespace Exercise6
 {
     class Program
     {
@@ -60,21 +61,25 @@ namespace Exercise6_1
                 {
                     return Math.PI * Math.Pow(radius, 2) * height;
                 }
-            }
-        }
-        static void Main(string[] args)
-        {
-            Cube cube = new Cube(3);
-            Cylinder cylinder = new Cylinder(2, 2);
-            Cone cone = new Cone(2, 2);
-            PrintMeshVolumes(cube, cylinder, cone);
-        }
-        static void PrintMeshVolumes(params Mesh[] meshes)
-        {
-            for (int i = 0; i < meshes.Length; i++)
-            {
+                static void Main(string[] args)
+                {
+                    Cube cube = new Cube(3);
+                    Cylinder cylinder = new Cylinder(2, 2);
+                    Cone cone = new Cone(2, 2);
+                    Capsule capsule = new Capsule(2, 2);
+                    PrintMeshVolumes(cube, cylinder, cone, capsule);
+                }
+                static void PrintMeshVolumes(params Mesh[] meshes)
+                {
+                    for (int i = 0; i < meshes.Length; i++)
+                    {
 
+                    }
+                }
             }
         }
     }
 }
+    
+
+
