@@ -1,5 +1,22 @@
 ﻿using System;
 using System.Collections.Generic; // For List<T>
+// a) Toteuta uusi luokka nimeltä Movie.
+// Toteuta luokalle ainakin seuraavat muuttujat public string title = "None;.....
+// Toteuta luokalle ainakin seuraavat funktiot:
+// public void SetMovieInformation(string mTitle, uint mDuration, uint mYear, string mGenre); Alusta luokan atribuutit funktion parametreillä.
+// Toteuta erillinen Get/Set funktiot description muuttujalle.
+// Toteuta myös luokalle Info() funktio. Tulosta tässä funktiossa elokuvien tiedot konsoliin.
+// Toteuta pääohjelmassa 2 elokuva oliota, ja  muuttujat. Testaa ohjelman toiminnallisuus.
+
+// b) Toteuta toinen luokka nimeltä MovieRental.
+// Toteuta luokalle seuraavat muuttujat/funktiot:
+// private List<Movie> movies; Tämä toteuttaa listan Movie luokasta nimeltä movies. Toteuta listan alustukselle oma funktio.
+// public void AddMovie(Movie movie);
+// Tässä metodissa annetaan movie olijoita funktion parametrina. Toteuta funktion toiminnallisuus, jossa aina uusi Movie olio parametri lisätään movies listaan.
+// public void RentableMovies() Käy läpi (loop) movies lista siten, että kutsut loopissa Movie luokan Info() -funktiota.
+// Luo pääohjelmassa uusi MovieRental olio. Anna aikaisemmin luodut Movie oliot MovieRental olion AddMovie(Movie movie) funktion parametreiksi.
+// Kutsu MovieRental olion RentableMovies() -funktiota pääohjelmassa.
+// Toteuta myös MovieRental luokalle funktio, jolta voi poistaa tietyn elokuvan listalta.
 
 namespace exercise2
 {
