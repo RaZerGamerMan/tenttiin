@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise6_1", "Exercise6.1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_Enums", "Exercise_Enums\Exercise_Enums.csproj", "{B034BB54-E64A-40D1-882A-A66732A6F07A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseTestQ2", "ExerciseTestQ2\ExerciseTestQ2.csproj", "{AA1B7E3F-F7E2-48E6-85B2-62EAE36FE7B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_Memory", "Exercise_Memory\Exercise_Memory.csproj", "{028F8AA4-A99E-4117-88F8-36F43D861147}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{B034BB54-E64A-40D1-882A-A66732A6F07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B034BB54-E64A-40D1-882A-A66732A6F07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B034BB54-E64A-40D1-882A-A66732A6F07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA1B7E3F-F7E2-48E6-85B2-62EAE36FE7B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1B7E3F-F7E2-48E6-85B2-62EAE36FE7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1B7E3F-F7E2-48E6-85B2-62EAE36FE7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1B7E3F-F7E2-48E6-85B2-62EAE36FE7B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{028F8AA4-A99E-4117-88F8-36F43D861147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028F8AA4-A99E-4117-88F8-36F43D861147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028F8AA4-A99E-4117-88F8-36F43D861147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028F8AA4-A99E-4117-88F8-36F43D861147}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
