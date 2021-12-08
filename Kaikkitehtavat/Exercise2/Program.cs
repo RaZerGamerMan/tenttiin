@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic; // For List<T>
+// NÄKYVYYSMÄÄREET
 // a) Toteuta uusi luokka nimeltä Movie.
 // Toteuta luokalle ainakin seuraavat muuttujat public string title = "None;.....
 // Toteuta luokalle ainakin seuraavat funktiot:
