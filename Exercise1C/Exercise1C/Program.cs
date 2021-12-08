@@ -1,7 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using static System.Console;
-
+// Toteuta pääohjelmaan 2 eri Player luokan oliota. Anna kummallekin oliolle käyttäjän syötteellä eri ID.
+// Vaihda olioiden ID:t keskenään, ja tulosta ne tarkistukseksi.
 namespace Exercise1C
 {
     class Program

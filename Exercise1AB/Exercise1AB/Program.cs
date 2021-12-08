@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Console;
 // Toteuta ohjelmaan uusi luokka Player. Luo uusi olio luokasta pääohjelmassa. 
 // 1. Yksi muuttuja esim. public int id;
 // 2. Funktio, joka tulostaa muuttujan esim. public void PrintID();
