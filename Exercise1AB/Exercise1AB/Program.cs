@@ -1,12 +1,14 @@
 ﻿using System;
-
+// Toteuta ohjelmaan uusi luokka Player. Luo uusi olio luokasta pääohjelmassa. 
+// 1. Yksi muuttuja esim. public int id;
+// 2. Funktio, joka tulostaa muuttujan esim. public void PrintID();
 namespace Exercise1AB
 {
     class Program
     {
         class Player
         {
-            public uint id;
+            public int id;
 
 
             public void PrintID()
