@@ -20,8 +20,10 @@ namespace Exercise1C
         {
             Player player_0 = new Player();
             Player player_1 = new Player();
-            player_0.id = 123;
-            player_1.id = 321;
+            Console.WriteLine("Give Player_0 ID:  ");
+            player_0.id = Int32.Parse(Console.ReadLine());
+            Console.WriteLine("Give Player_1 ID:  ");
+            player_1.id = Int32.Parse(Console.ReadLine());
 
             Console.Write("Player_0 ID: ");
             player_0.PrintID();
