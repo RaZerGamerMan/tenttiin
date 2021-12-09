@@ -20,11 +20,11 @@ namespace Exercise1C
         {
             Player player_0 = new Player();
             Player player_1 = new Player();
-            Console.WriteLine("Give Player_0 ID:  ");
-            player_0.id = Int32.Parse(Console.ReadLine());
-            Console.WriteLine("Give Player_1 ID:  ");
-            player_1.id = Int32.Parse(Console.ReadLine());
-
+            Console.WriteLine("Give Player_0 ID:  "); // ei tarvii jos ei halua käyttäjän numeroa
+            player_0.id = Int32.Parse(Console.ReadLine()); // 123;
+            Console.WriteLine("Give Player_1 ID:  "); // ei tarvii jos ei halua käyttäjän numeroa
+            player_1.id = Int32.Parse(Console.ReadLine()); // 321
+            
             Console.Write("Player_0 ID: ");
             player_0.PrintID();
             Console.Write("Player_1 ID: ");
