@@ -17,3 +17,4 @@ namespace Exercise_Enums
             Console.ReadLine();
         }
     }
+}
