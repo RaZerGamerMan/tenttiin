@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-// b) Toteuta Character luokka, joka perii MovableObject luokan.
+// 4 b) Toteuta Character luokka, joka perii MovableObject luokan.
 // Luokalla on vain muuttuja string Name. Toteuta myös muuttujalle Get/Set metodit.
 // Luokalla on myös yksi funktio: public void PrintInformation() = joka kirjoittaa konsoliin luokan nimen ja lokaation, käytä täälä GetLocation() funktiota
 // Luo muutama Character olio, ja anna niille erilaisia arvoja X:lle ja Y:lle.

@@ -3,35 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaikkitehtavat", "Kaikkitehtavat\Kaikkitehtavat.csproj", "{E1696549-6FF8-408F-89A4-5A654CA2817E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kaikkitehtavat", "Kaikkitehtavat\Kaikkitehtavat.csproj", "{E1696549-6FF8-408F-89A4-5A654CA2817E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1AB", "Exercise1AB\Exercise1AB.csproj", "{1AD9FF4F-5BA5-4A91-9A96-689A71FE237D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise1AB", "Exercise1AB\Exercise1AB.csproj", "{1AD9FF4F-5BA5-4A91-9A96-689A71FE237D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1C", "Exercise1C\Exercise1C.csproj", "{15D902BE-8EBE-4D89-AF75-8CDAF8D34A30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise1C", "Exercise1C\Exercise1C.csproj", "{15D902BE-8EBE-4D89-AF75-8CDAF8D34A30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1D", "Exercise1D\Exercise1D.csproj", "{D4E06E91-00BB-4504-AA25-7CB5D74F681C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise1D", "Exercise1D\Exercise1D.csproj", "{D4E06E91-00BB-4504-AA25-7CB5D74F681C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2", "Exercise2\Exercise2.csproj", "{5C4DF111-B938-4380-AFD7-032BA7D479ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise2", "Exercise2\Exercise2.csproj", "{5C4DF111-B938-4380-AFD7-032BA7D479ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise3", "Exercise3\Exercise3.csproj", "{5A04EF8A-BF0A-495A-A2FD-3FB44D815CD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise3", "Exercise3\Exercise3.csproj", "{5A04EF8A-BF0A-495A-A2FD-3FB44D815CD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnnenExercise4", "EnnenExercise4\EnnenExercise4.csproj", "{64034711-B6C0-4379-984D-2E93A1DEB476}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnnenExercise4", "EnnenExercise4\EnnenExercise4.csproj", "{64034711-B6C0-4379-984D-2E93A1DEB476}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise45", "Exercise4\Exercise45.csproj", "{9D74D352-E2A3-4E2A-8E2C-308BAC764F66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise45", "Exercise4\Exercise45.csproj", "{9D74D352-E2A3-4E2A-8E2C-308BAC764F66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise7", "Exercise7\Exercise7.csproj", "{F4F13461-226A-4E1E-8F4B-CB2F70534FC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise7", "Exercise7\Exercise7.csproj", "{F4F13461-226A-4E1E-8F4B-CB2F70534FC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseTestQ", "ExerciseTestQ\ExerciseTestQ.csproj", "{79D46C90-4D83-4692-9BC8-2EC7F4ACC58B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciseTestQ", "ExerciseTestQ\ExerciseTestQ.csproj", "{79D46C90-4D83-4692-9BC8-2EC7F4ACC58B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise6_1", "Exercise6.1\Exercise6_1.csproj", "{3AB7ACD0-5B99-45FA-9988-06A90E1B0CE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise6_1", "Exercise6.1\Exercise6_1.csproj", "{3AB7ACD0-5B99-45FA-9988-06A90E1B0CE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_Enums", "Exercise_Enums\Exercise_Enums.csproj", "{B034BB54-E64A-40D1-882A-A66732A6F07A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_Enums", "Exercise_Enums\Exercise_Enums.csproj", "{B034BB54-E64A-40D1-882A-A66732A6F07A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseTestQ2", "ExerciseTestQ2\ExerciseTestQ2.csproj", "{AA1B7E3F-F7E2-48E6-85B2-62EAE36FE7B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciseTestQ2", "ExerciseTestQ2\ExerciseTestQ2.csproj", "{AA1B7E3F-F7E2-48E6-85B2-62EAE36FE7B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_Memory", "Exercise_Memory\Exercise_Memory.csproj", "{028F8AA4-A99E-4117-88F8-36F43D861147}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_Memory", "Exercise_Memory\Exercise_Memory.csproj", "{028F8AA4-A99E-4117-88F8-36F43D861147}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_AbstractClass", "Exercise_AbstractClass\Exercise_AbstractClass.csproj", "{3AC81B16-8730-41BD-948A-60CF742FF1F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_AbstractClass", "Exercise_AbstractClass\Exercise_AbstractClass.csproj", "{3AC81B16-8730-41BD-948A-60CF742FF1F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallRPG", "SmallRPG\SmallRPG.csproj", "{6EDADAE3-A8ED-44BA-A6B9-79A2BF24B214}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{3AC81B16-8730-41BD-948A-60CF742FF1F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AC81B16-8730-41BD-948A-60CF742FF1F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AC81B16-8730-41BD-948A-60CF742FF1F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EDADAE3-A8ED-44BA-A6B9-79A2BF24B214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EDADAE3-A8ED-44BA-A6B9-79A2BF24B214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EDADAE3-A8ED-44BA-A6B9-79A2BF24B214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EDADAE3-A8ED-44BA-A6B9-79A2BF24B214}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

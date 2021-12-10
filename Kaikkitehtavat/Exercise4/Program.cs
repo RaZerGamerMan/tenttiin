@@ -1,5 +1,5 @@
 ﻿using System;
-// c) Luo pääohjelmaan aliohjelma, johon voi syöttää parametreina useamman Character luokan. Ohjelma kutsuu annetuista olioista Character luokan PrintInformation() funktiota.
+// 4 c) Luo pääohjelmaan aliohjelma, johon voi syöttää parametreina useamman Character luokan. Ohjelma kutsuu annetuista olioista Character luokan PrintInformation() funktiota.
 // for(...) loop tai
 // foreach(...) suositeltava tässä käytettäväksi.
 

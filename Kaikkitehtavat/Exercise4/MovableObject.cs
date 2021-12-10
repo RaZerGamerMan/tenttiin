@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-// a) Toteuta MovableObject luokka.
+// 4 a) Toteuta MovableObject luokka.
 // Luokalla on protected int x = 0 ja int y = 0 muuttujat.
 // Luokalla on myös pari funktiota:
 // public void SetLocation(int newX, int newY) = jossa voidaan asettaa uudet arvot X:lle ja Y:lle
